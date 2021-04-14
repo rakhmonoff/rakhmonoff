@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Khasanjon @rakhmonoff
+- 👋 Hi, I’m Khasanjon with github address @rakhmonoff
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning DYnamic website development and React.JS
+- 🌱 I’m currently learning Dynamic Website Development and React.JS
 - 📫 How to reach me is through email at rahmanov246@gmail.com
 
 <!---
